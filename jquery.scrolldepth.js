@@ -4,7 +4,7 @@
  * Copyright (c) 2014 Rob Flaherty (@robflaherty)
  * Licensed under the MIT and GPL licenses.
  */
-;(function ( $, window, document, undefined ) {
+;(function (window, document, undefined ) {
 
   "use strict";
 
@@ -257,4 +257,4 @@
 
   };
 
-})( jQuery, window, document );
+})( window, document );
